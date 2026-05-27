@@ -1,0 +1,16 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "description": "Cypress E2E test suite",
+  "scripts": {
+    "cy:open": "node node_modules/cypress/bin/cypress open",
+    "cy:run": "node node_modules/cypress/bin/cypress run",
+    "cy:run:headed": "node node_modules/cypress/bin/cypress run --headed"
+  },
+  "devDependencies": {
+    "cypress": "^15.15.0",
+    "dotenv": "^17.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}

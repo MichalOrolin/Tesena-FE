@@ -1,0 +1,21 @@
+{
+  "socialTitle": "Mr",
+  "firstName": "Janko",
+  "lastName": "Horak",
+  "email": "janko.horak@test.test",
+  "password": "Silne435Heslo231",
+  "birthdate": "10/23/1996",
+  "invalidEmail": "test@test",
+  "duplicateEmail": "janko.horak@test.test",
+  "shortPassword": "abc",
+  "weakPassword": "password",
+  "invalidMinPassword": "f4s2ju6g",
+  "invalidMaxPassword": "Silne435Heslo456789012345678901234567890123456789012345678901234567890123",
+  "validMinPassword": "f4r6h8y0",
+  "validMaxPassword": "Silne435Heslo45678901234567890123456789012345678901234567890123456789012",
+  "invalidFirstName": "St3v0",
+  "psgdpr": true,
+  "customerPrivacy": true,
+  "optin": true,
+  "newsletter": true
+}
